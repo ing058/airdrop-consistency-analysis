@@ -1,5 +1,8 @@
 # Airdrop Consistency Analysis
 
+**TL;DR:**  
+Consistency and sustained participation, rather than short-term activity spikes, are stronger signals for obtaining Full Access in crypto ecosystems.
+
 This project investigates whether activity consistency, measured by active days,
 plays a critical role in obtaining privileged access (e.g. Full Access roles),
 even when users exhibit sufficient behavioral diversity.
@@ -27,10 +30,12 @@ The distribution of active days is compared between the two groups.
 
 ## Key Findings
 
-- Users with sufficient behavioral diversity but shorter activity duration
-  were significantly less likely to obtain Full Access.
-- Activity consistency appears to function as a gating factor,
+- Among users with sufficient behavioral diversity, shorter activity duration
+  was strongly associated with failure to obtain Full Access.
+- Activity consistency appears to act as a gating factor,
   complementing behavioral diversity rather than replacing it.
+- Higher consistency scores among Full Access users indicate that
+  sustained participation over time matters more than short-term activity spikes.
 
 ## Interpretation
 
